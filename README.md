@@ -32,4 +32,11 @@
 ![Query 1 Output](screenshots/Level%204%20LEET%20CODE%20-%201.png)
 ![Query 1 Output](screenshots/Level%204%20LEET%20CODE%20-%202.png)
 
+## Level 4 - SQLZOO
+![Query 1 Output](screenshots/Level%204%20SQLZOO%20-%201.png)
+![Query 1 Output](screenshots/Level%204%20SQLZOO%20-%202.png)
+![Query 1 Output](screenshots/Level%204%20SQLZOO%20-%203.png)
+![Query 1 Output](screenshots/Level%204%20SQLZOO%20-%204.png)
+![Query 1 Output](screenshots/Level%204%20SQLZOO%20-%205.png)
+
 
