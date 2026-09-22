@@ -16,3 +16,4 @@
 ![Query 1 Output](screenshots/Level%202%20SQL%20PRACTICE%20-%2012.png)
 ![Query 1 Output](screenshots/Level%202%20SQL%20PRACTICE%20-%2013.png)
 
+## Level 3 - HACKERRANK
