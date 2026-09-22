@@ -2,4 +2,4 @@
 
 # SQL Assignments
 ## Level 2 - SQL PRACTICE
-![Query 1 Output](screenshots/Level 2 SQL PRACTICE - 1.png)
+![Query 1 Output](screenshots/Level_2_SQL_PRACTICE_1.png)
