@@ -26,3 +26,10 @@
 ![Query 1 Output](screenshots/Level%203%20HACKERRANK%20-%206.png)
 ![Query 1 Output](screenshots/Level%203%20HACKERRANK%20-%207.png)
 ![Query 1 Output](screenshots/Level%203%20HACKERRANK%20-%208.png)
+
+## Level 4 - LEETCODE
+![Query 1 Output](screenshots/Level%204%20LEET%20CODE%20-%20Profile.png)
+![Query 1 Output](screenshots/Level%204%20LEET%20CODE%20-%201.png)
+![Query 1 Output](screenshots/Level%204%20LEET%20CODE%20-%202.png)
+
+
