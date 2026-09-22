@@ -39,4 +39,7 @@
 ![Query 1 Output](screenshots/Level%204%20SQLZOO%20-%204.png)
 ![Query 1 Output](screenshots/Level%204%20SQLZOO%20-%205.png)
 
-
+## Level 5 - DATALEMUR
+![Query 1 Output](screenshots/Level%205%20DATALEMUR%20-%201.png)
+![Query 1 Output](screenshots/Level%205%20DATALEMUR%20-%202.png)
+![Query 1 Output](screenshots/Level%205%20DATALEMUR%20-%203.png)
